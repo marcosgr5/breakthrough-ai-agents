@@ -1,0 +1,7 @@
+Blancas (Max);Negras (Min);Ganadas B;Ganadas N;% Ganadas B;% Ganadas N
+Aleatorio;Aleatorio;50;50;50,0%;50,0%
+Aleatorio;Minimax P4;0;100;0,0%;100,0%
+Aleatorio;Montecarlo 10K;0;100;0,0%;100,0%
+Minimax P4;Minimax P4;55;45;55,0%;45,0%
+Minimax P4;Montecarlo 10K;100;0;100,0%;0,0%
+Montecarlo 10K;Montecarlo 10K;54;46;54,0%;46,0%
